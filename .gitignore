@@ -1,0 +1,4 @@
+docker-compose.yaml
+docker/nextcloud/data
+docker/mariadb/data
+
