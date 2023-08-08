@@ -1,4 +1,9 @@
 docker-compose.yaml
+docker/nextcloud/nextcloud
+docker/nextcloud/apps
+docker/nextcloud/config
 docker/nextcloud/data
+docker/nextcloud/themes
+docker/nextcloud/nextcloud.ini
 docker/mariadb/data
 
