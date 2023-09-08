@@ -68,4 +68,4 @@ services:
       - ./docker/onlyoffice/data:/var/www/onlyoffice/Data
       - ./docker/onlyoffice/lib:/var/lib/onlyoffice
     environment:
-      - JWT_SECRET=AroS1T1ypfSIkHI # Токен для подключения внешних служб
+      - JWT_SECRET= # Токен для подключения внешних служб
